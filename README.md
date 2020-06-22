@@ -1,4 +1,4 @@
 # JPL_MSP_2020
  
-Summer internship for the Caltech/NASA Jet Propulsion laboratory Maximizing Student Potential program.
+A repo for code and data that I will corral for the 2020 Caltech/NASA Jet Propulsion laboratory Maximizing Student Potential.
 
