@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+<!-- mammot_30809 image swath -->
+<Folder>
+  <name>mammot_30809 image swath</name>
+
+  <Placemark>    
+	<name>mammot_30809 Radar swath</name>     
+    <Style>    
+	  <PolyStyle>  
+		<color>99d6d37b</color>      
+		<fill>1</fill>
+		<outline>0</outline>
+	  </PolyStyle>    
+	</Style>   
+	<Polygon>          
+	  <altitudeMode>clampToGround</altitudeMode>          
+	  <outerBoundaryIs>            
+		<LinearRing>              
+		  <coordinates> 
+		    -118.74217645826502,37.328251845545
+		    -118.68523920311901,37.38567747375
+		    -119.87383895602,38.123392900282
+		    -119.931343787623,38.065974476207
+		    -118.74217645826502,37.328251845545
+		  </coordinates>            
+		</LinearRing>          
+	  </outerBoundaryIs>
+    </Polygon>      
+  </Placemark>
+
+
+  <Placemark>        
+	<name>mammot_30809 Processed swath</name>     
+    <Style>      
+	  <LineStyle>
+		<color>aa7c7926</color>    
+		<width>1</width>      
+	  </LineStyle>      
+	  <PolyStyle>        
+		<color>99b1ad35</color>      
+		<fill>1</fill>
+		<outline>1</outline>
+	  </PolyStyle>    
+	</Style>   
+	<Polygon>          
+	  <altitudeMode>clampToGround</altitudeMode>      
+	  <outerBoundaryIs>            
+		<LinearRing>              
+		  <coordinates> 
+		    -118.75457096703303,37.399920911579
+		    -118.736615273209,37.418098726967
+		    -119.741639419244,38.040569498938
+		    -119.75997782139302,38.022393592425
+		    -118.75457096703303,37.399920911579
+		  </coordinates>            
+		</LinearRing>          
+	  </outerBoundaryIs>        
+    </Polygon>      
+  </Placemark>
+
+
+</Folder>
+<!-- End of mammot_30809 image swath -->
+
+</kml>

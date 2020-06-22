@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+<!-- mthood_19107 image swath -->
+<Folder>
+  <name>mthood_19107 image swath</name>
+
+  <Placemark>    
+	<name>mthood_19107 Radar swath</name>     
+    <Style>    
+	  <PolyStyle>  
+		<color>99d6d37b</color>      
+		<fill>1</fill>
+		<outline>0</outline>
+	  </PolyStyle>    
+	</Style>   
+	<Polygon>          
+	  <altitudeMode>clampToGround</altitudeMode>          
+	  <outerBoundaryIs>            
+		<LinearRing>              
+		  <coordinates> 
+		    -121.29752704984901,46.624970162918
+		    -121.42896644810298,46.642029484379
+		    -121.85021579517598,45.049190598089
+		    -121.72247404321297,45.032126499267
+		    -121.29752704984901,46.624970162918
+		  </coordinates>            
+		</LinearRing>          
+	  </outerBoundaryIs>
+    </Polygon>      
+  </Placemark>
+
+
+  <Placemark>        
+	<name>mthood_19107 Processed swath</name>     
+    <Style>      
+	  <LineStyle>
+		<color>aa7c7926</color>    
+		<width>1</width>      
+	  </LineStyle>      
+	  <PolyStyle>        
+		<color>99b1ad35</color>      
+		<fill>1</fill>
+		<outline>1</outline>
+	  </PolyStyle>    
+	</Style>   
+	<Polygon>          
+	  <altitudeMode>clampToGround</altitudeMode>      
+	  <outerBoundaryIs>            
+		<LinearRing>              
+		  <coordinates> 
+		    -121.38277189842199,46.582927979112
+		    -121.44297980736201,46.590755324884
+		    -121.81535143814301,45.180055144396
+		    -121.757075804463,45.172226924215
+		    -121.38277189842199,46.582927979112
+		  </coordinates>            
+		</LinearRing>          
+	  </outerBoundaryIs>        
+    </Polygon>      
+  </Placemark>
+
+
+</Folder>
+<!-- End of mthood_19107 image swath -->
+
+</kml>

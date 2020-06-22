@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+<!-- shasta_34810 image swath -->
+<Folder>
+  <name>shasta_34810 image swath</name>
+
+  <Placemark>    
+	<name>shasta_34810 Radar swath</name>     
+    <Style>    
+	  <PolyStyle>  
+		<color>99d6d37b</color>      
+		<fill>1</fill>
+		<outline>0</outline>
+	  </PolyStyle>    
+	</Style>   
+	<Polygon>          
+	  <altitudeMode>clampToGround</altitudeMode>          
+	  <outerBoundaryIs>            
+		<LinearRing>              
+		  <coordinates> 
+		    -122.18744721609602,41.146750401087
+		    -122.08040224394097,41.164128814071
+		    -122.26178098602298,41.797807995911
+		    -122.36987352851497,41.780431503965
+		    -122.18744721609602,41.146750401087
+		  </coordinates>            
+		</LinearRing>          
+	  </outerBoundaryIs>
+    </Polygon>      
+  </Placemark>
+
+
+  <Placemark>        
+	<name>shasta_34810 Processed swath</name>     
+    <Style>      
+	  <LineStyle>
+		<color>aa7c7926</color>    
+		<width>1</width>      
+	  </LineStyle>      
+	  <PolyStyle>        
+		<color>99b1ad35</color>      
+		<fill>1</fill>
+		<outline>1</outline>
+	  </PolyStyle>    
+	</Style>   
+	<Polygon>          
+	  <altitudeMode>clampToGround</altitudeMode>      
+	  <outerBoundaryIs>            
+		<LinearRing>              
+		  <coordinates> 
+		    -122.137199861988,41.20829832279
+		    -122.09492698515902,41.215188401717
+		    -122.224459606398,41.667521949893
+		    -122.26734271945799,41.66063212624
+		    -122.137199861988,41.20829832279
+		  </coordinates>            
+		</LinearRing>          
+	  </outerBoundaryIs>        
+    </Polygon>      
+  </Placemark>
+
+
+</Folder>
+<!-- End of shasta_34810 image swath -->
+
+</kml>

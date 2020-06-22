@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+<!-- threes_16206 image swath -->
+<Folder>
+  <name>threes_16206 image swath</name>
+
+  <Placemark>    
+	<name>threes_16206 Radar swath</name>     
+    <Style>    
+	  <PolyStyle>  
+		<color>99d6d37b</color>      
+		<fill>1</fill>
+		<outline>0</outline>
+	  </PolyStyle>    
+	</Style>   
+	<Polygon>          
+	  <altitudeMode>clampToGround</altitudeMode>          
+	  <outerBoundaryIs>            
+		<LinearRing>              
+		  <coordinates> 
+		    -121.866337381336,44.486139321111
+		    -121.96864727141997,44.461909249779
+		    -121.69463934841798,43.863472572333
+		    -121.59335892319899,43.887705192447
+		    -121.866337381336,44.486139321111
+		  </coordinates>            
+		</LinearRing>          
+	  </outerBoundaryIs>
+    </Polygon>      
+  </Placemark>
+
+
+  <Placemark>        
+	<name>threes_16206 Processed swath</name>     
+    <Style>      
+	  <LineStyle>
+		<color>aa7c7926</color>    
+		<width>1</width>      
+	  </LineStyle>      
+	  <PolyStyle>        
+		<color>99b1ad35</color>      
+		<fill>1</fill>
+		<outline>1</outline>
+	  </PolyStyle>    
+	</Style>   
+	<Polygon>          
+	  <altitudeMode>clampToGround</altitudeMode>      
+	  <outerBoundaryIs>            
+		<LinearRing>              
+		  <coordinates> 
+		    -121.909697683393,44.420861609941
+		    -121.94577974420497,44.412351886025
+		    -121.75257546004201,43.989920130394
+		    -121.71708415673902,43.998430756598
+		    -121.909697683393,44.420861609941
+		  </coordinates>            
+		</LinearRing>          
+	  </outerBoundaryIs>        
+    </Polygon>      
+  </Placemark>
+
+
+</Folder>
+<!-- End of threes_16206 image swath -->
+
+</kml>

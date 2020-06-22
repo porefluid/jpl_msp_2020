@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+
+<!-- rainie_09121 image swath -->
+<Folder>
+  <name>rainie_09121 image swath</name>
+
+  <Placemark>    
+	<name>rainie_09121 Radar swath</name>     
+    <Style>    
+	  <PolyStyle>  
+		<color>99d6d37b</color>      
+		<fill>1</fill>
+		<outline>0</outline>
+	  </PolyStyle>    
+	</Style>   
+	<Polygon>          
+	  <altitudeMode>clampToGround</altitudeMode>          
+	  <outerBoundaryIs>            
+		<LinearRing>              
+		  <coordinates> 
+		    -122.39615710392798,46.87123906919
+		    -122.39732951187398,46.794242401723
+		    -121.16560766126099,46.778778225994
+		    -121.16443558946702,46.85577510246
+		    -122.39615710392798,46.87123906919
+		  </coordinates>            
+		</LinearRing>          
+	  </outerBoundaryIs>
+    </Polygon>      
+  </Placemark>
+
+
+  <Placemark>        
+	<name>rainie_09121 Processed swath</name>     
+    <Style>      
+	  <LineStyle>
+		<color>aa7c7926</color>    
+		<width>1</width>      
+	  </LineStyle>      
+	  <PolyStyle>        
+		<color>99b1ad35</color>      
+		<fill>1</fill>
+		<outline>1</outline>
+	  </PolyStyle>    
+	</Style>   
+	<Polygon>          
+	  <altitudeMode>clampToGround</altitudeMode>      
+	  <outerBoundaryIs>            
+		<LinearRing>              
+		  <coordinates> 
+		    -122.320845821033,46.820692858486
+		    -122.321365995279,46.793672014499
+		    -121.3593967132,46.780005337687
+		    -121.35926207377702,46.807025872696
+		    -122.320845821033,46.820692858486
+		  </coordinates>            
+		</LinearRing>          
+	  </outerBoundaryIs>        
+    </Polygon>      
+  </Placemark>
+
+
+</Folder>
+<!-- End of rainie_09121 image swath -->
+
+</kml>
